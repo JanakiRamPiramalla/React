@@ -1,4 +1,5 @@
 import ProfilePic from './assets/MyProfile.jpg'
+
 function Card(){
     return(
         <div class="card">
